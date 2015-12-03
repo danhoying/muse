@@ -13,6 +13,7 @@ gem 'haml'
 gem 'simple_form'
 gem 'devise'
 gem 'paperclip'
+gem 'acts_as_votable'
 
 group :development, :test do
   gem 'byebug'
